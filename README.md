@@ -1,4 +1,4 @@
-# Web-Crawler
+# Web-Scraping
 Description
 ----------
 The repository is used to extract the information of fund from the website of Asset Management Association of China(AMAC), including the information of manager, the fund scale, the register date, the register code, the type, etc.
